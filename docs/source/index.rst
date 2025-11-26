@@ -1,4 +1,4 @@
-Przykładowa strona główna projektu
+Strona główna
 ===================================
 
 :)
