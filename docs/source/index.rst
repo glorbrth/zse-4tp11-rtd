@@ -1,10 +1,13 @@
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :glob:
 
-   Strona główna <index>
-   Sprawozdanie z rtd <sprawozdanie-rtd>
-   Kontakt <kontakt>
+   *
+
+.. toctree::
+
+   index
    
 
 Strona główna
