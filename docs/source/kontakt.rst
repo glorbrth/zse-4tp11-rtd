@@ -7,4 +7,4 @@ Kontakt
 |Numer| 11 |
 +-----+----+
 
-github [https://github.com/glorbrth/zse-4tp11-rtd]
+`github <https://github.com/glorbrth/zse-4tp11-rtd>`_
