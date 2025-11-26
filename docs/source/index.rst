@@ -1,10 +1,9 @@
 .. toctree::
    :hidden:
-   :titlesonly:
    :maxdepth: 1
-
+   :glob:
    
-   Strona Główna <index>
+   *
 
 Strona główna
 ===================================
