@@ -38,10 +38,10 @@ Kod blokowy:
        return True
 
 Odnośnik lokalny RtD
-`tekst linku <https://github.com/glorbrth/zse-4tp11-rtd/new/main/docs/source>`_
+`powrót do strony głównej <index.html>`_
 
 Odnośnik zewnętrzny
-`GitHub <https://github.com/>`_
+`kontakt <https://github.com/glorbrth/zse-4tp11-rtd/blob/main/docs/source/kontakt.rst>`_
 
 Lista numerowana:
 
