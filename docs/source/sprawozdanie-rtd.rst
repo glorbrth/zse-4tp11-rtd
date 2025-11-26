@@ -1,5 +1,5 @@
-Sprawozdnie rst - nagłówek poziomu 1
-====================================
+Sprawozdnie rst
+===============
 
 Nagłówek poziomu 2
 ------------------
