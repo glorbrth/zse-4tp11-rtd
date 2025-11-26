@@ -12,5 +12,5 @@ Menu
 .. toctree::
 
    Strona główna
-   Sprawozdanie RtD
+   sprawozdanie-rtd
    Kontakt
