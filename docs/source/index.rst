@@ -5,8 +5,6 @@
 
    
    Strona Główna <index>
-   Sprawozdanie z RtD <sprawozdanie-rtd>
-   Kontakt <kontakt>
 
 Strona główna
 ===================================
