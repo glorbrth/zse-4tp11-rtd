@@ -2,7 +2,7 @@
    :hidden:
    
    kontakt
-   strona-glowna
+   index
    sprawozdanie-rtd
 
 Strona główna
