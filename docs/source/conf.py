@@ -36,6 +36,7 @@ html_theme_options = {
 }
 
 master_doc = 'index'
+source_suffix = '.rst'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
