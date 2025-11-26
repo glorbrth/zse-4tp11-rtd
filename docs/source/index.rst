@@ -1,11 +1,9 @@
 .. toctree::
    :hidden:
-   :maxdepth: 2
-   :caption: Navigation
-
-   index
-   sprawozdanie-rtd
+   
    kontakt
+   strona-glowna
+   sprawozdanie-rtd
 
 Strona główna
 ===================================
