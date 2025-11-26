@@ -1,9 +1,12 @@
 .. toctree::
    :hidden:
+   :titlesonly:
+   :maxdepth: 1
+
    
-   kontakt
-   index
-   sprawozdanie-rtd
+   Strona Główna <index>
+   Sprawozdanie z RtD <sprawozdanie-rtd>
+   Kontakt <kontakt>
 
 Strona główna
 ===================================
