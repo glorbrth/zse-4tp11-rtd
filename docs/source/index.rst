@@ -1,15 +1,3 @@
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-   :glob:
-
-   *
-
-.. toctree::
-
-   index
-   
-
 Strona główna
 ===================================
 
