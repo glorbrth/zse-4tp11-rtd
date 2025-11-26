@@ -11,5 +11,6 @@ Menu
 
 .. toctree::
 
+   index
    sprawozdanie-rtd
    kontakt
