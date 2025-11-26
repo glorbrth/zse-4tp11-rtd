@@ -1,8 +1,7 @@
 .. toctree::
    :titleonly:
    :hidden:
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
    Strona główna <index>
    Sprawozdanie z rtd <sprawozdanie-rtd>
