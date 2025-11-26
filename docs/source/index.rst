@@ -11,5 +11,5 @@ Menu
 
 .. toctree::
 
-   index
+   sprawozdanie-rst
    kontakt
