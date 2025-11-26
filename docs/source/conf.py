@@ -35,5 +35,7 @@ html_theme_options = {
     'navigation_depth': 1
 }
 
+master_doc = 'index'
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
