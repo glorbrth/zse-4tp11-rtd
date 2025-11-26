@@ -3,7 +3,7 @@
 # -- Project information
 
 project = '4tp-nr11'
-copyright = ''
+copyright = '4tp nr11'
 author = 'nr11'
 
 release = '0.1'
