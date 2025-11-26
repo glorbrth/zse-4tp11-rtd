@@ -1,5 +1,4 @@
 .. toctree::
-   :titleonly:
    :hidden:
    :maxdepth: 2
 
