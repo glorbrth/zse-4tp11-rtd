@@ -2,7 +2,8 @@
    :hidden:
    :maxdepth: 1
    :glob:
-   
+
+   Strona główna <index>
    *
 
 Strona główna
